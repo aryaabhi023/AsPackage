@@ -1,0 +1,19 @@
+{
+  "name": "aspackage",
+  "version": "1.0.0",
+  "description": "Systematic error message and response message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aryaabhi023/AsPackage.git"
+  },
+  "author": "Abhishek Arya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aryaabhi023/AsPackage/issues"
+  },
+  "homepage": "https://github.com/aryaabhi023/AsPackage#readme"
+}
