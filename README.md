@@ -16,6 +16,7 @@ Here is the small example of this.
 
 #### Example
 ```
+import {ApiError,ApiResponse,asyncHandler} from "are_package";
 const register = asyncHandler(async (req, res) => {
   
   const { fullname, email, password, username } = req.body;
